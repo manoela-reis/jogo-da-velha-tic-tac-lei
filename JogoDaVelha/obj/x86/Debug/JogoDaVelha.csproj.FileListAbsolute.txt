@@ -1,0 +1,18 @@
+C:\Users\FilipeZanella\AppData\Local\Temporary Projects\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\FilipeZanella\AppData\Local\Temporary Projects\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\FilipeZanella\AppData\Local\Temporary Projects\JogoDaVelha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FilipeZanella\AppData\Local\Temporary Projects\JogoDaVelha\obj\x86\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\FilipeZanella\AppData\Local\Temporary Projects\JogoDaVelha\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\FilipeZanella\AppData\Local\Temporary Projects\JogoDaVelha\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\FilipeZanella\AppData\Local\Temporary Projects\JogoDaVelha\obj\x86\Debug\JogoDaVelha.exe
+C:\Users\FilipeZanella\AppData\Local\Temporary Projects\JogoDaVelha\obj\x86\Debug\JogoDaVelha.pdb
+C:\Users\FilipeZanella\AppData\Local\Temporary Projects\JogoDaVelha\obj\x86\Debug\JogoDaVelha.Form1.resources
+C:\Users\FilipeZanella\documents\visual studio 2010\Projects\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.exe
+C:\Users\FilipeZanella\documents\visual studio 2010\Projects\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.pdb
+C:\Users\FilipeZanella\documents\visual studio 2010\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\FilipeZanella\documents\visual studio 2010\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\FilipeZanella\documents\visual studio 2010\Projects\JogoDaVelha\JogoDaVelha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FilipeZanella\documents\visual studio 2010\Projects\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.Form1.resources
+C:\Users\FilipeZanella\documents\visual studio 2010\Projects\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\FilipeZanella\documents\visual studio 2010\Projects\JogoDaVelha\JogoDaVelha\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\FilipeZanella\documents\visual studio 2010\Projects\JogoDaVelha\JogoDaVelha\obj\x86\Debug\GenerateResource.write.1.tlog
