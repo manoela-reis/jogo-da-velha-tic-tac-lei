@@ -1,0 +1,1 @@
+é um jogo onde o usuário tem como objetivo vencer do computador.
